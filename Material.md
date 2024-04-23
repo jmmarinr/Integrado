@@ -1,6 +1,6 @@
 ---
 title: Materiales
-layout: Materiales
+layout: default
 nav_order: 2
 ---
 
