@@ -12,6 +12,13 @@ jupyter:
     name: python3
 ---
 
+---
+title: Test
+layout: default
+nav_order: 4
+---
+
+
 ```python tags=["initialize"]
 import numpy as np
 
